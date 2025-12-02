@@ -1,7 +1,5 @@
 # 🚁 UAV_Multi_Rotor: Autonomous Flight Control
 
-![UAV Multi-Rotor Banner Placeholder](https://via.placeholder.com/1200x300/8A2BE2/FFFFFF?text=Autonomous+Flight+Control+for+Multi-Rotor+UAVs)
-
 This repository is dedicated to the development and analysis of the **Guidance, Navigation, and Control (GNC)** systems for multi-rotor UAVs (quadcopters, hexacopters, etc.). Our core focus is on achieving **stable, reliable, and autonomous flight** capabilities, from low-level motor commands to high-level mission planning.
 
 ---
